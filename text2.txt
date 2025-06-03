@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hey I am text2 file I am from feature1 branch
 i am the change from feature3 
+=======
+I am line 2 from master branch
+>>>>>>> 7fdf71e252e277b7f254de483cd96368c489cb47
