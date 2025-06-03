@@ -1,1 +1,2 @@
 Hey I am text2 file I am from feature1 branch
+Hello I am line 2 from the feature3 branch
