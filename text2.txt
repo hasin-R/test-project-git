@@ -1,2 +1,2 @@
 Hey I am text2 file I am from feature1 branch
-I am the change from main branch
+i am the change from feature3 
