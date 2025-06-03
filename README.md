@@ -1,6 +1,5 @@
 # heading 1
-```css
-h1{
-  color : red;}
+```
+Practicing Git and Github
 ```
 [linkedin](https://www.linkedin.com/in/hasin-raiyean/)
